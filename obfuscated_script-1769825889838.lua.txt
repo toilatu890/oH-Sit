@@ -12,6 +12,8 @@ return {
     ["YingIsabel2010"] = true,
     ["rip_jveuehij"] = true,
     ["huybeo0806"] = true,
-    ["ysggrbdisk"] = true
+    ["ysggrbdisk"] = true,
+    ["edefdqed43"] = true,
+    ["slsubsxwm"] = true
 }
 
