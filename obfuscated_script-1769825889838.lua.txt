@@ -14,6 +14,7 @@ return {
     ["huybeo0806"] = true,
     ["ysggrbdisk"] = true,
     ["edefdqed43"] = true,
-    ["slsubsxwm"] = true
+    ["slsubsxwm"] = true,
+    ["Uianpcrb"] = true  
 }
 
