@@ -20,5 +20,6 @@ return {
     ["9jus26i"] = true,
     ["baconmestudio29"] = true,
     ["Imco395"] = true,
-    ["meobeo8999"] = true
+    ["meobeo8999"] = true,
+    ["namki5678"] = true
 }
