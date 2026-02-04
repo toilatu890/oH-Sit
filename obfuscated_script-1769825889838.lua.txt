@@ -26,5 +26,6 @@ return {
     ["Hiconcu"] = true,
     ["anhbenbiban"] = true,
     ["khanhbeo0_0"] = true,
-    ["iibbimmnan"] = true
+    ["iibbimmnan"] = true,
+    ["88540566"] = true
 }
