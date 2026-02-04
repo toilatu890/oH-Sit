@@ -24,5 +24,7 @@ return {
     ["namkl5678"] = true,
     ["MQuocdz1237"] = true,
     ["Hiconcu"] = true,
-    ["anhbenbiban"] = true
+    ["anhbenbiban"] = true,
+    ["khanhbeo0_0"] = true,
+    ["iibbimmnan"] = true
 }
