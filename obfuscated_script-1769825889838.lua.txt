@@ -27,5 +27,7 @@ return {
     ["anhbenbiban"] = true,
     ["khanhbeo0_0"] = true,
     ["iibbimmnan"] = true,
-    ["88540566"] = true
+    ["88540566"] = true,
+    ["congle4443"] = true,
+    ["khanhbeo0_0nick2"] = true
 }
