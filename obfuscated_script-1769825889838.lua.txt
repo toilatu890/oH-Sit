@@ -30,5 +30,6 @@ return {
     ["88540566"] = true,
     ["congle4443"] = true,
     ["khanhbeo0_0nick2"] = true,
-    ["Ngheoqua96"] = true
+    ["Ngheoqua96"] = true,
+    ["nguyenduc0021"] = true
 }
